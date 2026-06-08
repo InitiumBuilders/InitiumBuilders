@@ -1,23 +1,22 @@
 - 👋 Hi, I’m @InitiumBuilders {{{ 🪪 August James Domanchuk
 - 👀 I’m focusing on building beautifully simple products, passionately commited and aligned teams, and values driven communities.
-- My mindset and mission: To Become A Cultural Catalyst
-- And to help share the developer and builder journeys of other builders out there, changing the narative and scene as we know it. #OpenSource
+- My mindset and mission: To Become A Cultural Catalyst And Systems Savant
+- And to help share the developer and builder journeys of other builders out there, changing the narative and scene as we know it. #OpenSource #FTW
 - Shoutout to @Peter Steinberger the founder of OpenClaw ( https://steipete.me/posts/2026/openclaw )
-- 🌱 I’m currently learning to Vibe Code
+- 🌱 I’m currently learning to Leverage https://Intuition.Systems
 - 🎶 Product Development is my hobby, for my day job I am a professional musician and an educator
 - I also offer my services and tutor anyone with a drive to learn. Schedule a learning session with me at:
-- https://Initium.Builders/services  
-- 📬 I’m looking to collaborate on my latest project https://Timely.Works
-- 📫 How to reach me InitiumBuilders@gmail.com
-- 😄 Mantra: Build In Public, And Build Community.
+- https://August.Here.Now/my-services  
+- 📬 I’m looking to collaborate on my latest project https://MotusMoves.US
+- 📫 How to reach me August@Outlier.Systems
+- 😄 Mantra: Build In Public, Build Community, AND BUILD TOGETHER.
 - I am a long-term Dash DAO Advocate and a Builder, Building Products and Platforms on Dash Evolution.
 - Learn more: https://www.dash.org/blog/introducing-dash-evolution-platform/
-- https://Initium.Builders/why-dash
-- Latest idea I'm exploring: Emergent Citizenship
-- ⚡ Fun fact: I think the best way to help someone is to inspire them to love learning. 
--Checkout what I've built at https://www.Initium.Builders (Updated 5/27/2025)
-
-
+- https://Outlier.Systems/#oosint
+- https://Outlier.Systems/#careers
+- Latest idea I'm exploring: The Transformation From Artificial Intelligence To ---> Emergent Intelligence
+- ⚡ Fun fact: I think the best way to help someone is to inspire them to love learning and To Share Their Knowledge
+-Checkout what I've built at https://www.Symphonic.Vision (Updated 6/7/2026)
 
 🔮 My Journey Into EMERGENT STRATEGY
 
@@ -48,7 +47,7 @@ My stack: TypeScript / Python / Next.js / Dash Platform / Intuition Systems ($TR
 
 "Hold fast to the goal of goodness." — Donella Meadows. I am small. I am strong. And I am always still learning.
 
-Dash EVO Username:
+Dash EVO Username: August.DASH
 
 ||
 
